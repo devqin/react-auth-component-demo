@@ -1,4 +1,5 @@
-## react-auth-component-demo
+# react-auth-component-demo
+react-auth-component-demo | React 前端权限校验demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
